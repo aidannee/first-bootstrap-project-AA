@@ -1,0 +1,15 @@
+img {
+  object-fit: cover;
+  overflow: hidden;
+}
+
+ul,
+li {
+  list-style-type: none;
+}
+
+i {
+  font-size: 100px;
+  color: black;
+  /* height: 100px; */
+}
